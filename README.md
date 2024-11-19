@@ -16,3 +16,5 @@ export const App: React.FC = () => {
   a & b \\
   f & g \\
  \end{matrix}
+ 
+\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}
