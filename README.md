@@ -12,9 +12,4 @@ export const App: React.FC = () => {
   );
 };
 
-\begin{matrix}
-  a & b \\
-  f & g \\
- \end{matrix}
- 
-\vec{v} = \begin{bmatrix} X \\\ Y \end{bmatrix}
+*Hello, world!*
